@@ -1,7 +1,7 @@
-# CodeMemo
+# CodeMemo☕
 
 ## 个人简介：
-我是 CodeMemo，一个热爱编程的开发者，喜欢记录编程旅程中的精彩瞬间。
+I'm CodeMemo, and I'm a developer who loves to code, and I love to record the best moments of my programming journey.
 
 ## 作品链接：
 （待填写）
